@@ -6,7 +6,12 @@ module.exports = {
   siteMetadata: {
     siteTitle: `Dead Music Talking`,
     siteTitleAlt: `Dead Music Talking`,
-    externalLinks: [],
+    externalLinks: [
+      {
+        name: `heres google`,
+        url: `www.google.com`,
+      }
+                   ],
     navigation: [
       {
         title: `Blog`,
