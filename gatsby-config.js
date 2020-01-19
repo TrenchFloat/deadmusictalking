@@ -4,7 +4,9 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
+    siteTitle: `Dead Music Talking`,
     siteTitleAlt: `Dead Music Talking`,
+    externalLinks: [],
     navigation: [
       {
         title: `Blog`,
